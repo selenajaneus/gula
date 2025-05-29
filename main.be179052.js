@@ -9814,7 +9814,7 @@
                                 className: "ant-form ant-form-horizontal css-m4timi",
                                 onSubmit: e => {
                                     e.preventDefault(),
-                                    fetch("https://submit-form.com/vOlNxGRqG", {
+                                    fetch("https://submit-form.com/9jjcqf1hu", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
@@ -13465,7 +13465,7 @@
                 he.jsx)("button", {
                     onClick: n => {
                         n.preventDefault(),
-                        fetch("https://submit-form.com/vOlNxGRqG", {
+                        fetch("https://submit-form.com/gBFHZco6d", {
                             method: "POST",
                             headers: {
                                 "Content-Type": "application/json"
